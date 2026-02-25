@@ -1,0 +1,22 @@
+.countnumber {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+#conteneur{
+    text-align: center;
+}
+button{
+    background-color: black;
+    padding: 10px 20px;
+    color: aliceblue;
+    font-size: 1.5em;
+    border: 2px solid aliceblue;
+    border-radius: 25px;
+    transition: .5s;
+}
+button:hover{
+     background-color: aliceblue;
+    color: black;
+    border: 2px solid black;
+}
